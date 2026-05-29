@@ -4,7 +4,7 @@
 A responsive, minimalist single-page promotional website showcasing tech hardware (inspired by the Nothing brand). The page features product highlights, categorized browsing, company background, and a responsive contact form, built with a focus on clean architecture and maintainability.
 
 ## Demo
-[Live Preview](https://IvanovvvIhor.github.io/layout_landing-page/)
+[Live Preview](https://ivanovvvihor.github.io/Nothing-Landing/)
 
 ## Design Reference
 [Figma Mockup](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
